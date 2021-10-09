@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security 
 - 🌱 I’m currently learning in ABESIT
 - 💞️ My aim is to become a grey hat hacker 
-- 📫 How to reach me just email me 
+- 📫 Reach me just email me 
 
 <!---
 EkanshRajput/EkanshRajput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
